@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/zoo.animal.feeding/zoo.animal.feeding.iml" filepath="$PROJECT_DIR$/zoo.animal.feeding/zoo.animal.feeding.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo.animals.talks/zoo.animals.talks.iml" filepath="$PROJECT_DIR$/zoo.animals.talks/zoo.animals.talks.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo.staff/zoo.staff.iml" filepath="$PROJECT_DIR$/zoo.staff/zoo.staff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.tours.api/zoo.tours.api.iml" filepath="$PROJECT_DIR$/zoo.tours.api/zoo.tours.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.tours.reservations/zoo.tours.reservations.iml" filepath="$PROJECT_DIR$/zoo.tours.reservations/zoo.tours.reservations.iml" />
     </modules>
   </component>
 </project>
