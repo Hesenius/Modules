@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/zoo.staff/zoo.staff.iml" filepath="$PROJECT_DIR$/zoo.staff/zoo.staff.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo.tours.api/zoo.tours.api.iml" filepath="$PROJECT_DIR$/zoo.tours.api/zoo.tours.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/zoo.tours.reservations/zoo.tours.reservations.iml" filepath="$PROJECT_DIR$/zoo.tours.reservations/zoo.tours.reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.visitor/zoo.visitor.iml" filepath="$PROJECT_DIR$/zoo.visitor/zoo.visitor.iml" />
     </modules>
   </component>
 </project>
